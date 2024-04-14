@@ -1,4 +1,5 @@
 
+
 <p  align='center'><img  src="https://i.ibb.co/V9hxFwP/jiotv-be.png"  width="700" height="300">  </p>
 
 <h4 align='center'>📺Stalker portal script.</h4>
@@ -66,16 +67,16 @@ Through LocalHost </br></br>🌟 Star This Repository Before Forking 😎</br>Do
 
 - [Jiotv-Be Zip](https://github.com/Jitendraunatti/jiotv-be/raw/main/jiotv-be.zip) </br>
 
-1. Locate & Extract all Files in LocalHost `Htdocs` Root Folder. </br>
+1. Locate & ***Extract Only jiotv-be File  In Localhost*** `Htdocs` Root Folder. </br>
 2. Open KSWEB app & start the server. </br>
 3. Now Open `jiotv-be` Below Link :
 
    ```
    http://localhost:8080/jiotv-be/portel.php
    ```
-
-4. Now, You Will See all Jiotv.be  Portel. </br>
-5. Click on Channel and Play. </br>
+4. If it's not working, then copy '**jiotv-be**' folder and paste it under the '**htdocs**' folder.
+5. Now, You Will See all Jiotv.be  Portel. </br>
+6. "The file named '**jiotv-be**'  available under **'htdocs'** for it to work; please don't **change anything.**"
 
 ## ▶️ PlayList Methods :
 
