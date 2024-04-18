@@ -97,6 +97,7 @@ http://localhost:8080/jiotv-be/playlist.php
 <h3>🚸 WARNINGS :</h3>
 
 - This is Just For Educational Purpose
+- I am in no way responsible if you misuse the code and cause revenue loss to the concerned parties and owners of the portal
 - Don't Sell this Script, This is 💯% Free
 
 <h3>🤗 CONTACT US : </h3>
