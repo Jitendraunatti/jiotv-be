@@ -1,0 +1,7 @@
+{
+  "urll": "",
+  "mac": "",
+  "url_token": "",
+  "token": "",
+  "loop": ""
+}
