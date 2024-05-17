@@ -1,5 +1,6 @@
 
 
+
 <p  align='center'><img  src="https://i.ibb.co/V9hxFwP/jiotv-be.png"  width="700" height="300">  </p>
 
 <h4 align='center'>📺Stalker portal script.</h4>
@@ -8,20 +9,37 @@ Through LocalHost </br></br>🌟 Star This Repository Before Forking 😎</br>Do
 😈</h4>
 
 </br>
+<h3>😇 SCRIPT FEATURES :-</h3>
+
+ 1. Works on **Mobile,Tizen OS ,Web Os, AndroidTV , PC Browser Perfect**
+2. Multi Audio Stream Support
+3. Only Single Quality Support
+4. Worldwide support
+5. **Web Browser Support**
+<hr>
 
 <h3>♻️ JOIN FOR UPDATES :</h3>
 
 - JOIN OUR TELEGRAM CHANNEL
 - [https://t.me/jitendraunatti_github](https://t.me/jitendraunatti_github)
+<hr>
 
-<h3>😇 SCRIPT FEATURES :</h3>
+<h3>🌐STARTUP :-</h3>
 
-- Multi Audio Stream Support
-- Only Single Quality Support
-- Works on Mobile, AndroidTV or PC Browser Perfect
-- Worldwide support
+**Just open the `jiotv-be` folder in your browser.**
+<p  align='center'><img  src="https://i.ibb.co/DQq23By/image.png"  width="700" height="300">  </p>
 
-<h3>💖 PLAYLIST  FEATURES :</h3>
+- If you want to use the web version, click on "Web".
+- If you want to use the playlist, click on "Playlist", copy its URL, and paste it into any IPTV player.
+
+ <hr>
+
+
+**It means you need to update your script from my GitHub account.**
+<p  align='center'><img  src="https://i.ibb.co/9WBrZfC/image.png"  width="700" height="300">  </p>
+<hr>
+<br>
+<h3>💖 PLAYLIST AND WEB  FEATURES :- </h3>
 
 - Search Feature Added</br>
 
@@ -93,12 +111,29 @@ http://localhost:8080/jiotv-be/playlist.php
 * Licensed under MIT (https://github.com/Jitendraunatti/jiotv-be/blob/main/LICENSE)
 * Created By : jitendra kumar
 -->
+<hr>
+
+<h3>☠️ NORMAL USER IGNORE IT. FEATURES FOR PRO USERS :-</h3>
+
+- YOU MUST READ THE "STARTUP" SECTION.
+- YOU CAN OPEN THE FILE NAMED "INFO.TXT" IN ANY CODING APPLICATION OR TEXT EDITOR.
+- **PUT YOUR OWN URL , MAC, AND TOKEN**
+-  AUTO PLAYLIST AND WEB GENERATOR (WHICH IS AVAILABLE ON MY SERVER)
+-  EXAMPLE OF HOW YOU CAN ENTER DETAILS
+- IF THE TOKEN IS CHANGEABLE(MAY BE NOT WORK), THEN PUT THE URL WHICH GENERATES THIS     TOKEN. PUT YOUR URL IN THE URL_TOKEN SECTION.
+- IF YOU DON'T WANT TO ADD DETAILS, SIMPLY LEAVE IT BLANK.
+
+
+
+<p  align='center'><img  src="https://i.ibb.co/S0vBn16/image.png"  width="700" height="300">  </p>
+<hr>
 
 <h3>🚸 WARNINGS :</h3>
 
 - This is Just For Educational Purpose
 - I am in no way responsible if you misuse the code and cause revenue loss to the concerned parties and owners of the portal
 - Don't Sell this Script, This is 💯% Free
+<hr>
 
 <h3>🤗 CONTACT US : </h3>
 
