@@ -1,6 +1,7 @@
 
 
 
+
 <p  align='center'><img  src="https://i.ibb.co/V9hxFwP/jiotv-be.png"  width="700" height="300">  </p>
 
 <h4 align='center'>📺Stalker portal script.</h4>
@@ -141,8 +142,13 @@ http://localhost:8080/jiotv-be/playlist.php
 - FOR ANY QUERY CONTACT US ON [PROTON-MAIL](mailto:jitendraunatti@pm.me)
 
 </br>
+<hr>
 
----
+<h3> ⚠️License and Disclosures : </hr>
+
+This code is just a CASE STUDY on how the authentication mechanism and live streaming using IPTV works I am in no way responsible if you misuse the code and cause revenue loss to the concerned parties and owners of the portal
+This code is protected under the [MIT](https://github.com/Jitendraunatti/jiotv-be/blob/main/LICENSE) license
+
 
 <h4 align='center'>© 2021-24 JITENDRA KUMAR</h4>
 
